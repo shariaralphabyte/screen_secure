@@ -1,9 +1,9 @@
 # Screen Secure 🔐
 
 [![pub package](https://img.shields.io/pub/v/screen_secure.svg)](https://pub.dev/packages/screen_secure)
-[![GitHub](https://img.shields.io/github/license/yourshariaralphabytete/screen_secure)](https://github.com/yourshariaralphabytete/screen_secure/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/shariaralphabyte/screen_secure)](https://github.com/shariaralphabyte/screen_secure/blob/main/LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)](https://pub.dev/packages/screen_secure)
-[![Build Status](https://github.com/yourshariaralphabytete/screen_secure/workflows/CI/badge.svg)](https://github.com/yourshariaralphabytete/screen_secure/actions)
+[![Build Status](https://github.com/shariaralphabyte/screen_secure/workflows/CI/badge.svg)](https://github.com/shariaralphabyte/screen_secure/actions)
 
 A powerful Flutter plugin for comprehensive screen security features including screenshot and screen recording protection across Android and iOS platforms.
 
@@ -751,7 +751,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 
-- **Examples**: [Example App](https://github.com/yourshariaralphabytete/screen_secure/tree/main/example)
+- **Examples**: [Example App](https://github.com/shariaralphabyte/screen_secure/tree/main/example)
 
 ## 🌟 Acknowledgments
 
@@ -765,6 +765,6 @@ See [CHANGELOG.md](CHANGELOG.md) for a detailed history of changes.
 
 ---
 
-**Made with ❤️ by [Sharia Hossain](https://github.com/yourshariaralphabytete)**
+**Made with ❤️ by [Sharia Hossain](https://github.com/shariaralphabyte)**
 
 *If you find this plugin helpful, please consider giving it a ⭐ on GitHub!*
