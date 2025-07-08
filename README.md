@@ -38,7 +38,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  screen_secure: ^1.0.0
+  screen_secure: ^1.0.1
 ```
 
 Run:

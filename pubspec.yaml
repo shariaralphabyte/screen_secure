@@ -1,6 +1,6 @@
 name: screen_secure
 description: A Flutter plugin for screen security features including screenshot and screen recording protection across Android and iOS platforms.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/shariaralphabyte/screen_secure
 repository: https://github.com/shariaralphabyte/screen_secure
 issue_tracker: https://github.com/shariaralphabyte/screen_secure/issues
@@ -23,7 +23,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.shariaralphabyte.screen_secure
+        package: com.shariar99.screen_secure
         pluginClass: ScreenSecurePlugin
       ios:
         pluginClass: ScreenSecurePlugin

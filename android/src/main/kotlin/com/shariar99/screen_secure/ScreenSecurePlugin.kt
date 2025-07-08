@@ -1,4 +1,4 @@
-package com.example.screen_secure
+package com.shariaralphabyte.screen_secure
 
 import android.app.Activity
 import android.view.WindowManager
